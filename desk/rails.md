@@ -24,3 +24,12 @@ Updated: 2026-09-19
 ## Majors
 - Prefer dip-buy / sell-pop over chase.
 - BTC/ETH swings need clear edge + Risk Guard size; do not buy more SOL with SOL (already base).
+
+## Alert ops (2026-09-20)
+- CoS/MW = scanner + ticket writer.
+- Green = 5–15m breakout + rising volume.
+- One-screen tickets only (see playbooks/alert-ticket.md).
+- >3m to decide = LATE, no chase.
+- Risk one-liner required before any BUY from Research PASS.
+- Size max 1–2% of trade wallet per ticket.
+- No new plugins. Journal post-mortems separately.
