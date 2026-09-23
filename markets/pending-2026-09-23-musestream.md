@@ -1,10 +1,6 @@
-# Ticket PENDING EXEC 2026-09-23 ~3:35pm ET
+# Ticket ABORTED 2026-09-23 ~3:46pm ET
 
-**ABORTED:** MUSESTREAM — Scout FAIL (thin liq / organicScore 0 / inorganic) + Risk VETO
+**ABORTED MUSESTREAM** — Scout FAIL + Risk VETO
+**ABORTED OTC** `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` — Risk had SIZE OK, but pre-fill tape flipped to sustained sells / 0.0001 dust buys only (executor abort). Phantom 1015 also blocked fills.
 
-**LIVE:** OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | Solana
-why now: Scout BUY; graduated ~26d; ~$7.7M mcap; Jupiter verified; mint+freeze null; holders distributed (top ~20.5%); quote 0.08 SOL impact ~48 bps
-invalidation: −2.5% from fill / momentum fails
-size: 0.08 SOL
-status: **BUY ready — Phantom auth Cloudflare 1015**
-rails: +2–4% scalp / −2.5% hard / no overnight
+No position opened. Book SOL-only. Hunt next Scout-cleared + Risk-sized setup.
